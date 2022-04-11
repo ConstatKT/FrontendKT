@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Cloned_frontend/MusicHub_Front" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Folders/BackendNode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Folders/flutter/flutter_planb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Folders/flutter/workshop_4sim2122" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Folders/flutter/workshop_4sim2122-workshop2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Folders/flutter/workshop_4sim2122-workshop3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Folders/flutter/workshop_4sim2122-workshops4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MusicHub_Back" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PIM_Backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PIMobile/Bassline" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PIMobile/PIM_Backend-Dali" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ServerIOS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cloned backends/MusicHub_Back" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cloned backends/MusicHub_Back-1" vcs="Git" />
+  </component>
+</project>
